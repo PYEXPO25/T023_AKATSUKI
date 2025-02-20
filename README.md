@@ -25,11 +25,11 @@ Easy communication between resident and the admin , Provide chat system , provid
 List your team members along with their roles.
 
 - A.Mohammed yasin - Team Leader
-- Manoj D - Role
-- Kishore S - Role
-- Pragati A - Role
-- Thanishkasri Y - Role
-- Sakthi S - Role
+- Manoj D - member
+- Kishore S - member
+- Pragati A - member
+- Thanishkasri Y - member
+- Sakthi S - member
 
 ![WhatsApp Image 2025-02-19 at 19 00 16_d17b1325](https://github.com/user-attachments/assets/3840db2e-483c-462e-9e18-ec5ef3ea643c)
 
