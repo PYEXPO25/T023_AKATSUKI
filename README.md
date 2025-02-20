@@ -24,12 +24,12 @@ Easy communication between resident and the admin , Provide chat system , provid
 
 List your team members along with their roles.
 
-- A.Mohammed yasin - Team Leader
-- Manoj D - member
-- Kishore S - member
-- Pragati A - member
-- Thanishkasri Y - member
-- Sakthi S - member
+- A.Mohammed yasin(TL) - fullstack
+- Manoj D - backend
+- Kishore S - frontend
+- Pragati A - database
+- Thanishkasri Y - frontend
+- Sakthi S - frontend
 
 ![WhatsApp Image 2025-02-19 at 19 00 16_d17b1325](https://github.com/user-attachments/assets/3840db2e-483c-462e-9e18-ec5ef3ea643c)
 
@@ -42,7 +42,7 @@ List the technologies and tools used in the project. For example:
 
 - *Frontend:* HTML, CSS, JavaScript
 - *Backend:*  Django
-- *Database:* MySQL , postgres
+- *Database:* postgres
 - *Other Tools:* Git
 
 ---
