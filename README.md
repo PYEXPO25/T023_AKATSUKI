@@ -81,7 +81,7 @@ Follow these steps to clone and run the application locally.
 
 4. Install dependencies:
    bash
-   pip install -r requirements.txt
+   pip install django
 
 5. Navigate to source
    bash
@@ -92,13 +92,11 @@ Follow these steps to clone and run the application locally.
 
 ## Start the Application
 
-1. Run the Flask application:
-   bash
-   flask run
+1.Run the Django application: bash python manage.py runserver
 
 2. Open your browser and navigate to:
 
-   http://127.0.0.1:5000/
+ localhost:8000
 
 
 ---
