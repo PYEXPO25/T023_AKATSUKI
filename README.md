@@ -119,3 +119,17 @@ Images to demonstrate the user interface:
    ![Analytics Mockup](media/Analytics.png)
 
 ---
+
+## Resources
+
+### 📄 PowerPoint Presentation
+[Click here to view the PPT](insert-drive-link-here)
+
+### 🎥 Project Video
+[Click here to view the project demo video](insert-drive-link-here)
+
+### 📹 YouTube Link
+[Watch the project on YouTube](insert-youtube-link-here)
+
+---
+
