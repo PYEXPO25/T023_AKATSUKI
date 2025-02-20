@@ -5,34 +5,34 @@
 
 ## Problem Statement
 
-*Problem Statement ID – xxxxx*
+*Problem Statement ID – PY084
 
-Formulate your problem statement clearly and concisely.
+Apartment Maintenance Management system - 
 
 ---
 
 ## Overview
 
-Provide an overview of the project, its purpose, and what it aims to achieve along with proposed solution
+Easy communication between resident and the admin , Provide chat system , provide bill for residents , Manage resident details , Each resident data is stored in database ,Handle resident requests quickly.
+
 
 ---
 
 ## Team Members
 
-*Team ID – xxxxx*
+*Team ID – T023*
 
 List your team members along with their roles.
 
-- *Member 1* - Team Leader
-- *Member 2* - Role
-- *Member 3* - Role
-- *Member 4* - Role
-- *Member 5* - Role
-- *Member 6* - Role
-- *Member 7* - Role
-- *Member 8* - Role
+- A.Mohammed yasin - Team Leader
+- Manoj D - Role
+- Kishore S - Role
+- Pragati A - Role
+- Thanishkasri Y - Role
+- Sakthi S - Role
 
-![Team Photo](media/team-photo.png)
+![WhatsApp Image 2025-02-19 at 19 00 16_d17b1325](https://github.com/user-attachments/assets/3840db2e-483c-462e-9e18-ec5ef3ea643c)
+
 
 ---
 
@@ -40,10 +40,10 @@ List your team members along with their roles.
 
 List the technologies and tools used in the project. For example:
 
-- *Frontend:* HTML, CSS, JavaScript, ReactJS
-- *Backend:* Flask, Django
-- *Database:* MongoDB, MySQL
-- *Other Tools:* Docker, Git, TensorFlow
+- *Frontend:* HTML, CSS, JavaScript
+- *Backend:*  Django
+- *Database:* MySQL , postgres
+- *Other Tools:* Git
 
 ---
 
