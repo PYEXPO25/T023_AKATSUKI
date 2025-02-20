@@ -7,7 +7,8 @@
 
 *Problem Statement ID – PY084
 
-Apartment Maintenance Management system - 
+Apartment Maintenance Management system - Apartment complexes may face inefficient maintenance, bill payments delayed and inattentive
+communications with residents.
 
 ---
 
