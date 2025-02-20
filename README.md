@@ -123,7 +123,7 @@ Images to demonstrate the user interface:
 ## Resources
 
 ### 📄 PowerPoint Presentation
-[Click here to view the PPT](insert-drive-link-here)
+https://onedrive.live.com/:p:/g/personal/3FB1911656261155/EUIIXKeKALVLt7XOS0CJnVAB9ZlNb7PFURgMjm4zopz6Zw?resid=3FB1911656261155!sa75c0842008a4bb5b7b5ce4b40899d50&ithint=file%2Cpptx&e=m4q5eq&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy8zZmIxOTExNjU2MjYxMTU1L0VVSUlYS2VLQUxWTHQ3WE9TMENKblZBQjlabE5iN1BGVVJnTWptNHpvcHo2Wnc_ZT1tNHE1ZXE
 
 ### 🎥 Project Video
 [Click here to view the project demo video](insert-drive-link-here)
