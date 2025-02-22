@@ -109,7 +109,7 @@ Images to demonstrate the user interface:
 *Example pages:*
 
 1. *Landing Page:*
-   ![landing page](https://github.com/user-attachments/assets/4057bb66-2727-44f8-883f-5ba450661f6e)
+   "C:\Users\Yasin\OneDrive\Desktop\T022_Akatsuki\T023_AKATSUKI\media\landing page.png.png"
 
 
 2. *Dashboard:*
