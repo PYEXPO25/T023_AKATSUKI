@@ -109,7 +109,8 @@ Images to demonstrate the user interface:
 *Example pages:*
 
 1. *Landing Page:*
-   "C:\Users\Yasin\OneDrive\Desktop\T022_Akatsuki\T023_AKATSUKI\media\landing page.png.png"
+   ![Uploading landing page.png.png…]()
+
 
 
 2. *Dashboard:*
