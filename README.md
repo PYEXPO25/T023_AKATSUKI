@@ -119,6 +119,7 @@ Images to demonstrate the user interface:
 
 
 3. *Analytics View:*
+   
    ![apartment maintenance-management system](https://github.com/user-attachments/assets/aeab45f6-79c3-4333-b14d-bb59fc9e5f47)
 
 
