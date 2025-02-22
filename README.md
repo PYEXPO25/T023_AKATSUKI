@@ -127,14 +127,14 @@ Images to demonstrate the user interface:
 ## Resources
 
 ### 📄 PowerPoint Presentation
-https://onedrive.live.com/:p:/g/personal/3FB1911656261155/EUIIXKeKALVLt7XOS0CJnVAB9ZlNb7PFURgMjm4zopz6Zw?resid=3FB1911656261155!sa75c0842008a4bb5b7b5ce4b40899d50&ithint=file%2Cpptx&e=m4q5eq&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy8zZmIxOTExNjU2MjYxMTU1L0VVSUlYS2VLQUxWTHQ3WE9TMENKblZBQjlabE5iN1BGVVJnTWptNHpvcHo2Wnc_ZT1tNHE1ZXE
+https://docs.google.com/presentation/d/1iRAdqIf8EJDUFvGCWh5SXF8qCUDe4yvKHNWZ1ywA5vY/edit?usp=sharing
 
 ### 🎥 Project Video
-
+https://www.youtube.com/watch?v=tXMU6mEPb4o
 
 ### 📹 YouTube Link
 
-https://www.youtube.com/watch?v=tXMU6mEPb4o
+
 
 
 ---
